@@ -5,3 +5,5 @@ In this project, I was given the task of building a **binary classification mode
 **For more details, please look into the file since I explained very carefully in it.**
 
 ![image](https://user-images.githubusercontent.com/118095331/217199896-475e72d3-9c19-413f-ac3f-0f11fe8212a3.png)
+
+**Note: When you download the ipynb and the csv files, make sure that they are stored in the same folder.**
